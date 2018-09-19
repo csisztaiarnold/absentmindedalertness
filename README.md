@@ -1,5 +1,5 @@
 # Absent Minded Alertness
-The source of my online journal which could be found [here](https://ama.idevele.com).
+The source of my online journal.
 
 JSON structure:
 ```
